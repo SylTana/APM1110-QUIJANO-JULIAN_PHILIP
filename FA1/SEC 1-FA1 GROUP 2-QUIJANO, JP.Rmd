@@ -92,4 +92,4 @@ boxplot(male_scores, names = ("Males"),
 
 These graphs shows that, generally, the females outperformed the males in the Java Programming Exam by a decent amount. It must also be noticed that the male scores is less varied when compared to the female scores.
 
-Github Link: <https://github.com/SylTana/APM1110-QUIJANO-JULIAN_PHILIP/tree/main/FA1>
+Github Link: <https://github.com/SylTana/APM1110-QUIJANO-JULIAN_PHILIP/blob/main/FA1/SEC%201-FA1%20GROUP%202-QUIJANO%2C%20JP.Rmd>
